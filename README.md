@@ -36,4 +36,13 @@ Dans cette partie, on recupère nos data depuis Azure afin d'en faire des tables
 
 Vous allez maintenant dans le dossier **Part_Silver** puis **Init Part Silver**, vous choississez toujours le cluster que vous ave crée puis appuyez sur **Run all**
 
-Ce qui est fait dans le silver est le nettoyage des données, la transformations afin d'avoir des données claires (arrondir les données, les multiplier par 100 etc...) et enfin la fusion de chaque tables d'une même catégorie en 1 seule : Match, Joueur, Equipe
+Ce qui est fait dans le silver est le nettoyage des données, la transformations afin d'avoir des données claires (arrondir les données, les multiplier par 100 etc...) et enfin la fusion de chaque tables d'une même catégorie en 1 seule : **Match**, **Joueur**, **Equipe**
+
+
+## Etape 4 : 
+
+Vous allez maintenant dans le dossier **Part_Gold** puis **Init Part Gold**, vous choississez toujours le cluster que vous ave crée puis appuyez sur **Run all**
+
+On y fait dedans les tables de dimensions, les tables de fait ainsi que le visualisations
+
+C'est dans le notebook 3.2 que vous pourrez tester vos visualisations à l'aide des tables silvers créee à l'étape juste avant 
