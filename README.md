@@ -22,7 +22,7 @@ Vous importez le fichier **.dbc** dans votre espace de travail sur Databricks
 
 Ensuite, vous créez un cluster avec cette configuration dans la partie compute sur la sidebar de gauche 
 
-![Compute image](/image/compute.png)
+![Compute image](/image/Compute.png)
 
 ## Etape 2 :
 
